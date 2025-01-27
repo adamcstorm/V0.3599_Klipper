@@ -45150,3 +45150,9 @@ sqlite based history database found! Copying...
 From https://github.com/adamcstorm/V0.3599_Klipper
  * branch              main       -> FETCH_HEAD
 Already up to date.
+[main b6c93a49] Autocommit from 2025-01-26 18:00:02
+ 2 files changed, 8 insertions(+)
+To https://github.com/adamcstorm/V0.3599_Klipper.git
+   4d952567..b6c93a49  main -> main
+sqlite based history database found! Copying...
+fatal: unable to access 'https://github.com/adamcstorm/V0.3599_Klipper.git/': Could not resolve host: github.com
